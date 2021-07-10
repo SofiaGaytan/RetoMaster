@@ -19,7 +19,7 @@ Aquí se encuentra una recopilación de apuntes de los seis modulos vistos a lo 
 - [Contenido Adicional](#contenido-adicional)
   - [Glosario](./ContenidoAdicional/Glosario.md)
   - Recomendaciones
-- [Simbología](#simbología)
+- [Simbología](#simbolog%C3%ADa-)
 
 
 &nbsp;
