@@ -3,22 +3,22 @@ Les doy la calida bienvenida al repositorio del **Reto Inicial: Reto Master** de
 Aquí se encuentra una recopilación de apuntes de los seis modulos vistos a lo largo de las 4 semanas para el estudio y preparación de la certificación **AZ-900: Azure Fundamentals**.
 
 ## Indice
-- [Información](#informaci%C3%B3n) ℹ️
-    - [Descripción del Reto](#descripc%C3%B3n-del-reto-) 📝
-    - [Autora](#autora-%EF%B8%8F) ✍️
-    - [Grupo](#grupo-ii-cloud-surfers-%EF%B8%8F) ☁️🏄
-- [Módulos](#m%C3%B3dulos) 💯
+- [Información](#informaci%C3%B3n)
+    - [Descripción del Reto](#descripc%C3%B3n-del-reto-)
+    - [Autora](#autora-%EF%B8%8F)
+    - [Grupo](#grupo-ii-cloud-surfers-%EF%B8%8F)
+- [Módulos](#m%C3%B3dulos)
     - Módulo 1
     - Módulo 2
     - Módulo 3
     - Módulo 4
     - Módulo 5
     - Módulo 6
-- [Contenido Adicional](#contenido-adicional) ➕
+- [Contenido Adicional](#contenido-adicional)
   - [Glosario](./ContenidoAdicional/Glosario.md)
   - Recomendaciones
 
-## Información
+## Información ℹ️
 - ### Descripcón del reto 📝
 Realizar un repositorio donde se incluya los apuntes de los 6 módulos del programa para la preparación de la certificación.
 
@@ -29,7 +29,7 @@ Realizar un repositorio donde se incluya los apuntes de los 6 módulos del progr
 - ### Grupo II: Cloud Surfers ☁️🏄  
 **Sherpa Digital:** José Jesús Gusmán Eusebio
 
-## Módulos
+## Módulos 🖥️
 - ### Módulo 1
 - ### Módulo 2
 - ### Módulo 3
@@ -37,6 +37,6 @@ Realizar un repositorio donde se incluya los apuntes de los 6 módulos del progr
 - ### Módulo 5
 - ### Módulo 6
 
-## Contenido Adicional
+## Contenido Adicional ➕
 - ### [Glosario](./ContenidoAdicional/Glosario.md)
 - ### Recomendaciones
