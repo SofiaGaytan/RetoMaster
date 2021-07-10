@@ -22,5 +22,5 @@ Realizar un repositorio donde se incluya los apuntes de los 6 módulos del progr
 - ### Módulo 6
 
 ## Contenido Adicional
-- ### Glosario
-- ### Contenido adicional recomendado
+- ### [Glosario](./ContenidoAdicional/Glosario.md)
+- ### Recomendaciones
