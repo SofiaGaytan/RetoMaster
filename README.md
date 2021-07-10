@@ -6,10 +6,12 @@ Aquí se encuentra una recopilación de apuntes de los seis modulos vistos a lo 
 - ### Descripcón del reto 📝
 Realizar un repositorio donde se incluya los apuntes de los 6 módulos del programa para la preparación de la certificación.
 
-- ### Información de la autora ✍️
+- ### Autora ✍️
 **Nombre:** Sofía Alejandra Gaytán Díaz  
-**Carrera:** Licenciatura en Ciencias Computacionales    
-**Grupo**: Grupo II Cloud Surfers  
+**Carrera:** Licenciatura en Ciencias Computacionales
+
+- ### Grupo II: Cloud Surfers ☁️🏄  
+**Sherpa Digital:** José Jesús Gusmán Eusebio
 
 ## Módulos
 - ### Módulo 1
