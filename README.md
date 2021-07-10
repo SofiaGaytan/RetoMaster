@@ -60,7 +60,7 @@ Realizar un repositorio donde se incluya los apuntes de los 6 módulos del progr
 - [X] *Apuntes del módulo completados*
 - [ ] *Apuntes del módulo incompletos*
 
-☑️ *Apuntes del módulo completados*
+☑️ *Apuntes del módulo completados*  
 ❎ *Apuntes del módulo incompletados*
 
 ---
