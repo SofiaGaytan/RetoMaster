@@ -28,19 +28,19 @@ Azure es una plataforma de **informatica en la nube** con un conjunto de servici
 
 #### ✅ Ventajas
 
-##### Innovación
+ - ##### Innovación
 Como se menciono anteriormente, una ventaja que proporciona la nube es tener servicios con un gran grado de innovación, Azure esta **preparado para el futuro**, es decir, Microsoft ofrece una innovación continua para apoyar el desarrollo de proyectos futuros.
 
-##### Variedad de opciones
+ - ##### Variedad de opciones
 Admite codigo abieto, todos los lenguajes y marcos, donde se puede compilar e implementar como y donde el usuario desee.
 
-##### Entorno Híbrido
+- ##### Entorno Híbrido
 El usuario puede operar en un entorno local, en la nube o en un entorno perimetral, ofreciendo herramientas y servicios diseñados para trabajar con una nube híbrida.
 
-##### Confianza y Seguridad
+- ##### Confianza y Seguridad
 Azure proporciona seguridad respaldada por un equipo de expertos y un cumplimiento proactivo de confianza para empresas y gobiernos.
 
-##### Servicios
+- ##### Servicios
 Azure proporciona más de 100 servicios que permiten hacer diversas tareas, donde se incluyen servicios del area de computo, base de datos, almacenamiento, redes, IA e IoT.
 
 #### ⚙️Funcionamiento
