@@ -10,7 +10,29 @@ Aquí podran encontrar el significado de diversas palabras que estan acomodadas 
 
 ## A
 ## B
+
+- [Bastidor](#bastidor)
+
+### Bastidor
+#### ¿Dondé se encuentra?
+Módulo: [Módulo 1](https://github.com/SofiaGaytan/RetoMaster#-m%C3%B3dulo-1-descripci%C3%B3n-de-los-conceptos-b%C3%A1sicos-de-azure)  
+Sección: [Introducción a los aspectos básicos de Azure](./Modulo1/Modulo1_1.md)
+
 ## C
+
+- [Conmutador](#conmutador)
+- [Controlador de tejido](#controlador-de-tejido)
+
+### Conmutador
+#### ¿Dondé se encuentra?
+Módulo: [Módulo 1](https://github.com/SofiaGaytan/RetoMaster#-m%C3%B3dulo-1-descripci%C3%B3n-de-los-conceptos-b%C3%A1sicos-de-azure)  
+Sección: [Introducción a los aspectos básicos de Azure](./Modulo1/Modulo1_1.md)
+
+### Controlador de tejido
+#### ¿Dondé se encuentra?
+Módulo: [Módulo 1](https://github.com/SofiaGaytan/RetoMaster#-m%C3%B3dulo-1-descripci%C3%B3n-de-los-conceptos-b%C3%A1sicos-de-azure)  
+Sección: [Introducción a los aspectos básicos de Azure](./Modulo1/Modulo1_1.md)
+
 ## D
 ## E
 ## F
@@ -30,9 +52,25 @@ Sección: [Introducción a los aspectos básicos de Azure](./Modulo1/Modulo1_1.m
 ## L
 ## LL
 ## M
+
+- [Máquina virtual](#máquina-virtual)
+
+### Máquina virtual
+#### ¿Dondé se encuentra?
+Módulo: [Módulo 1](https://github.com/SofiaGaytan/RetoMaster#-m%C3%B3dulo-1-descripci%C3%B3n-de-los-conceptos-b%C3%A1sicos-de-azure)  
+Sección: [Introducción a los aspectos básicos de Azure](./Modulo1/Modulo1_1.md)
+
 ## N
 ## Ñ
 ## O
+
+- [Orquestador](#orquestador)
+
+### Orquestador
+#### ¿Dondé se encuentra?
+Módulo: [Módulo 1](https://github.com/SofiaGaytan/RetoMaster#-m%C3%B3dulo-1-descripci%C3%B3n-de-los-conceptos-b%C3%A1sicos-de-azure)  
+Sección: [Introducción a los aspectos básicos de Azure](./Modulo1/Modulo1_1.md)
+
 ## P
 ## Q
 ## R
