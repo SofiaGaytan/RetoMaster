@@ -102,5 +102,7 @@ En este modulo se ven las 4 caracteristicas básicos de Azure: Almacenamiento, B
 
 &nbsp;
 
-*Cualquier sugerencia, comentario o pregunta, con toda confianza, mandenme un mensaje*  
-Muchas gracias, les deseo un excelente día.
+*Cualquier sugerencia, comentario o pregunta, con toda confianza, mandenme un mensaje.   
+Les agradeceria mucho sus opiones.*
+
+**Muchas gracias, les deseo un excelente día.**
